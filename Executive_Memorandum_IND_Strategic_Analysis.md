@@ -35,12 +35,6 @@ Our comprehensive analysis projects strong performance for the complete 2017 fis
 - Year-to-Date Performance (through July 28): $10.00B
 - Projected Remainder (August-December): $7.53B (seasonally adjusted)
 
-**Monthly Revenue Projections (August-December):**
-- August: $1.49B
-- September: $1.50B
-- October: $1.55B
-- November: $1.49B
-- December: $1.54B
 
 ### Methodology and Confidence
 
