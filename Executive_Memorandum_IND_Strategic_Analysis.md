@@ -2,7 +2,7 @@
 
 **TO:** Mr. Gurmeet Singh, Chief Executive Officer  
 **FROM:** Strategic Analysis Team  
-**DATE:** August 31, 2025  
+**DATE:** September 5, 2025  
 **RE:** Strategic Business Analysis and 2017 Performance Projections for International Notion Distributors
 
 ---
@@ -159,16 +159,6 @@ Our product portfolio analysis reveals significant concentration risk and optimi
 - Cosmetics: 40% margin
 - Baby Food: 38% margin
 
-### Sales Channel Performance
-
-| Sales Channel | Orders | Revenue | Profit | ShipLag_Median | Margin % |
-|---------------|--------|---------|--------|----------------|----------|
-| Online | 50,054 | $66.9B | $19.7B | 25 | 29% |
-| Offline | 49,946 | $66.8B | $19.7B | 25 | 30% |
-
-*[Reference: By Sales Channel.png]*
-
-The balanced distribution between online and offline channels demonstrates strong omnichannel capabilities, though both channels show identical fulfillment lag times, suggesting room for differentiation.
 
 ### Strategic Recommendations for Product Optimization
 
@@ -189,12 +179,12 @@ We propose conducting comprehensive experiments using our business intelligence 
 
 Our analysis of shipping performance reveals a critical opportunity for competitive differentiation:
 
-| Order Priority | Orders | Revenue | Profit | ShipLag_Median | Margin % |
+| Order Priority | Orders | Revenue | Profit | Avg. Ship Lag | Margin % |
 |----------------|--------|---------|--------|----------------|----------|
-| C | 24,951 | $33.3B | $9.8B | 25 | 30% |
-| L | 25,016 | $33.4B | $9.8B | 25 | 30% |
-| M | 25,088 | $33.7B | $9.9B | 25 | 29% |
-| H | 24,945 | $33.3B | $9.8B | 25 | 30% |
+| C (Critical) | 24,951 | $33.3B | $9.8B | 25 | 30% |
+| L (Low) | 25,016 | $33.4B | $9.8B | 25 | 30% |
+| M (Medium) | 25,088 | $33.7B | $9.9B | 25 | 29% |
+| H (High) | 24,945 | $33.3B | $9.8B | 25 | 30% |
 
 *[Reference: By Priority.png]*
 
@@ -241,8 +231,6 @@ We recommend immediate approval and implementation of these strategic initiative
 
 ---
 
-### Historical Performance
-
 | Year | Orders | Revenue | Profit | ShipLag_Median |
 |------|--------|---------|--------|----------------|
 | 2010 | 13,076 | $17.5B | $5.2B | 25 |
@@ -252,8 +240,11 @@ We recommend immediate approval and implementation of these strategic initiative
 | 2014 | 13,209 | $17.9B | $5.2B | 25 |
 | 2015 | 13,180 | $17.8B | $5.2B | 25 |
 | 2016 | 13,192 | $17.5B | $5.2B | 25 |
-| 2017 (Actual) | 7,558 | $10.0B | $3.0B | 25 |
-| **2017 (Projected)** | **13,248** | **$17.5B** | **$5.2B** | **25** |
+| 2017 (Actual*) | 7,558 | $10.0B | $3.0B | 25 |
+| 2017 (Projected**) | 13,248 | $17.5B | $5.2B | 25 |
+
+*Actual represents January 2017-July 2017 completed sales
+**Projected represents estimated data for January 2017-December 2017 based on historic and seasonal trends.
 
 *[Reference: Yearly Trends.png]*
 
